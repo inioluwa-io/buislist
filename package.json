@@ -19,7 +19,7 @@
     "@types/sinon": "^7.5.2",
     "babel-jest": "^24.9.0",
     "esm": "^3.2.25",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-datalist": "^4.0.0",
     "react-dom": "^16.13.1",
